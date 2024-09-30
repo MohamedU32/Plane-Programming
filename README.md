@@ -1,2 +1,2 @@
 # Plane-Programming
- Solution of Exercise 1
+GameUp Africa Bootcamp - Maliyo Academy - Solution of Exercise 1
